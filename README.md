@@ -106,11 +106,10 @@ BookVentor
 │       ├───main.scss
 │       └───reset.scss
 │
-└───vendor
-    ├───.htaccess
-    ├───composer.json
-    ├───composer.lock
-    └───index.php
+├───composer.json
+├───composer.json
+├───composer.lock
+└───index.php
 
 ```
 
