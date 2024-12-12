@@ -1,0 +1,15 @@
+{
+    "name": "win10pro/bookinventory",
+    "authors": [
+        {
+            "name": "1S3C",
+            "email": "onesec0296@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/"
+        }
+    },
+    "require": {}
+}
