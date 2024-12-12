@@ -107,7 +107,6 @@ BookVentor
 │       └───reset.scss
 │
 ├───composer.json
-├───composer.json
 ├───composer.lock
 └───index.php
 
